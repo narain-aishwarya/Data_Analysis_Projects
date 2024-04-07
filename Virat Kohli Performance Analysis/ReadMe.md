@@ -7,4 +7,4 @@ Virat Kohli is known for his incredible skills , fitness and fashion style.
 
 _Details about the cloumns in the dataset or the parameter of the analysis are: _
 
-<ul>Runs: Runs in the match</ul>
+<ul type="circle">Runs: Runs in the match</ul>
