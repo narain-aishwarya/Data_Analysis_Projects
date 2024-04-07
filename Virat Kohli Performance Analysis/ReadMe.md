@@ -5,5 +5,6 @@ Virat Kohli is an Indian international cricketer and the former captain of the I
 Virat Kohli is known for his incredible skills , fitness and fashion style. 
 **This is an Analysis of his performance from the year 2008-2017 in ODI matches**
 
-_**Details about the cloumns in the dataset or the parameter of the analysis are: **_
+_Details about the cloumns in the dataset or the parameter of the analysis are: _
 
+<ul>Runs: Runs in the match</ul>
