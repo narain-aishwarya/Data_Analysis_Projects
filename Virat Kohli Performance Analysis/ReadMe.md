@@ -7,10 +7,17 @@ Virat Kohli is known for his incredible skills , fitness and fashion style.
 
 _Details about the cloumns in the dataset or the parameter of the analysis are: _
 
-<ul>1.Runs: Runs in the match <br>
-2.BF: Balls Faced in the match
-3.4s: No. of 4 in a match
-4.6s: No.of 6 in match
-  5.SR: Strike Rate 
-  6.
+<ul style="list-style-type:circle">
+  <li>Runs: Runs in the match </li>
+  <li>BF: Ball Faced in a match </li>
+  <li>4s: No.of 4 scored in a match </li>
+  <li>6s: No.of 6 scored in a match </li>
+  <li>SR: Strike Rate in the match </li>
+  <li>Pos: Batting Position in the match </li>
+  <li>Dismissal: How Virat Kohli got out in the match </li>
+  <li>Inns: 1st and 2nd innings </li>
+  <li>Oppostion: Who was the opponent of India </li>
+  <li>Ground: Vennue of the match </li>
 </ul>
+
+**Note**: The dataset used is available at my Kaggle profile to download.
