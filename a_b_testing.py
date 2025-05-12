@@ -10,3 +10,8 @@ control_data = pd.read_csv("/kaggle/input/example-dataset-for-ab-test/control_gr
 test_data = pd.read_csv("/kaggle/input/example-dataset-for-ab-test/test_group.csv", sep = ";")
 
 print(control_data.head())
+print(test_data.head())
+
+control_data.columns = ["Campaign Name", "Date", "Amount Spent", "Number of Impressions",  "Reach", "Website Clicks", "Searches Received", "Content Viewed", "Added to Cart", "Parchases"]
+test_data.columns = ["Campaign Name", "Date", "Amount Spent", "Number of Impressions",  "Reach", "Website Clicks", "Searches Received", "Content Viewed", "Added to Cart", "Parchases"]
+print(control_data.isnull().sum())
